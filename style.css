@@ -1,0 +1,22 @@
+.img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.bleu{
+    border-left: 4px solid blue;
+}
+.vert{
+    border-left: 4px solid green;
+}
+.bleuclair{
+    border-left: 4px solid rgb(64, 137, 231);
+}
+.rose{
+    border-left: 4px solid rgb(212, 34, 93);
+}
+.ima{
+    height: 330px;
+    background-size: cover;
+    object-fit: cover;
+}
